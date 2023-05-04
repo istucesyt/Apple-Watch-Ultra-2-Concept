@@ -8,6 +8,7 @@ Les fichiers proposés au téléchargement sur cette page sont uniquement rendus
 # 👉 Utilisation
 Vous possédez le droit de réutiliser ces créations dans des projets personnels ou publiques, dans quel cas vous devrez obligatoirement intégrer ce message à votre publication :
 `Création originale du contenu visuel : iStuces`.
+Pour plus d'information, consultez les termes de la license *Creative Commons* (https://github.com/istucesyt/Apple-Watch-Ultra-2-Concept/blob/main/LICENSE) ou contactez-moi (istucesyt@gmail.com).
 
 # ✉️ Restez informé...
 ...en rejoignant le serveur Discord d'iStuces : https://tinyurl.com/iStuces-Discord
