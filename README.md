@@ -12,3 +12,5 @@ Pour plus d'information, consultez les termes de la license *Creative Commons* (
 
 # ✉️ Restez informé...
 ...en rejoignant le serveur Discord d'iStuces : https://tinyurl.com/iStuces-Discord
+
+...en vous abonnant à la chaîne YouTube @istuces23 : https://www.youtube.com/@istuces23/featured
