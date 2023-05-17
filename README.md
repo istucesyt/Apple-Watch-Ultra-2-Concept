@@ -2,7 +2,7 @@
 Téléchargez les fichiers du concept.
 
 # 👉 Présentation
-Le produit présenté dans ce concept n'existe pas. Je ne suis pas affilié avec Apple.
+Le produit présenté dans ce concept n'existe pas. Je ne suis pas affilié à Apple.
 Les fichiers proposés au téléchargement sur cette page sont uniquement rendus publiques à des fins d'éducation et de développement.
 
 # 👉 Utilisation
